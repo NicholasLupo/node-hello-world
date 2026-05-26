@@ -1,1 +1,1 @@
-console.log('No wayyyy');
+console.log('Hello Boolean');
